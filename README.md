@@ -2,11 +2,12 @@
 
 > **Note:** I am not currently accepting pull requests.
 
-This is the artifact for my POPL 2022 Student Research Competition project,
+This is the artifact for my [POPL 2022 Student Research Competition][popl] project,
 ["Filling a Niche: Using Spare Bits to Optimize Data Representation"][paper].
 You can read the 3-page extended abstract [here][paper], and you can watch the
 3-minute lightning talk [here][talk].
 
+[popl]: https://popl22.sigplan.org/track/POPL-2022-student-research-competition
 [paper]: https://www.noahlev.org/papers/popl22src-filling-a-niche.pdf
 [talk]: https://youtu.be/dROaEavjEQw
 
